@@ -1,4 +1,4 @@
 # proj-demo
 first git repository
 <br>
-author : oliver straight 
+author : oliver not so straight 
